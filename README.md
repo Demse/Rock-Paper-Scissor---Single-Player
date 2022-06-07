@@ -1,3 +1,3 @@
 # Rock-Paper-Scissor---Single-Player
 
-Are you bored? Why not play Rock Paper Scissor with a "conmputer'
+I created this game to test my knowledge and understanding of the while loop as well as the if and then statements.
